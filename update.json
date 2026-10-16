@@ -1,9 +1,9 @@
 {
-  "version": "1.4",
-  "latest": 104,
+  "version": "1.5",
+  "latest": 105,
   "enabled": true,
   "require": false,
-  "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.4.apk",
-  "notice": "",
+  "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.5.apk",
+  "notice": "홈 화면이 화려해졌어요 — 보유 종목 지도·시세 전광판·최고 기록 축하",
   "grace_days": 7
 }
