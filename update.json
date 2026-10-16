@@ -2,9 +2,9 @@
   "version": "1.6",
   "latest": 106,
   "enabled": true,
-  "require": false,
+  "require": true,
   "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.6.apk",
-  "notice": "'내 투자 비서'로 새 단장 — 자동 업데이트·AI 차트 분석·더 자세한 AI 답변",
+  "notice": "'내 투자 비서' v1.6이 나왔어요! 아래 '새 버전 받기' → 다운로드된 파일 열기 → 설치를 눌러 주세요. 계좌·관심종목은 그대로 남아요. (PC는 github.com/royaljun666-maker/MIOS 에서 받기)",
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v1.6.zip"
 }
