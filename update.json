@@ -1,0 +1,9 @@
+{
+  "version": "1.4",
+  "latest": 104,
+  "enabled": true,
+  "require": false,
+  "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.4.apk",
+  "notice": "",
+  "grace_days": 7
+}
