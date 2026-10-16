@@ -1,9 +1,10 @@
 {
-  "version": "1.5",
-  "latest": 105,
+  "version": "1.6",
+  "latest": 106,
   "enabled": true,
   "require": false,
-  "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.5.apk",
-  "notice": "홈 화면이 화려해졌어요 — 보유 종목 지도·시세 전광판·최고 기록 축하",
-  "grace_days": 7
+  "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.6.apk",
+  "notice": "'내 투자 비서'로 새 단장 — 자동 업데이트·AI 차트 분석·더 자세한 AI 답변",
+  "grace_days": 7,
+  "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v1.6.zip"
 }

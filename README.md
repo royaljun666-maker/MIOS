@@ -1,13 +1,13 @@
-# 내 자산 비서
+# 내 투자 비서
 
 여러 증권사 계좌를 한곳에 모아 보고, 시세·뉴스·무료 AI 분석을 받는 앱입니다.
 
-## 내려받기 (v1.5)
+## 내려받기 (v1.6)
 
 | 기기 | 받기 |
 |---|---|
-| 📱 안드로이드 폰 | [myfin_v1.5.apk 받기](https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.5.apk) |
-| 💻 Windows PC | [AssetAssistant_PC_v1.5.zip 받기](https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v1.5.zip) |
+| 📱 안드로이드 폰 | [myfin_v1.6.apk 받기](https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.6.apk) |
+| 💻 Windows PC | [AssetAssistant_PC_v1.6.zip 받기](https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v1.6.zip) |
 
 **폰 설치:** 링크를 눌러 받은 뒤 파일을 열고 설치. "출처를 알 수 없는 앱" 허용을 물으면 허용해 주세요.
 이미 예전 버전이 있으면 지우지 말고 그대로 설치하면 정보가 유지됩니다.
