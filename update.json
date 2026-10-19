@@ -21,7 +21,7 @@
   },
   "promo": [],
   "license": {
-    "required": true,
+    "required": false,
     "contact": "",
     "contact_label": "쿠폰 구매·문의",
     "notice": "쿠폰은 앱을 알려 준 분께 문의해 주세요.",
