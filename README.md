@@ -7,7 +7,7 @@
 | 기기 | 받기 |
 |---|---|
 | 📱 안드로이드 폰 | [myfin_v1.8.apk 받기](https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.8.apk) |
-| 💻 Windows PC | [AssetAssistant_PC_v2.17.zip 받기](https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v2.17.zip) |
+| 💻 Windows PC | [AssetAssistant_PC_v2.18.zip 받기](https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v2.18.zip) |
 
 **폰 설치:** 링크를 눌러 받은 뒤 파일을 열고 설치. "출처를 알 수 없는 앱" 허용을 물으면 허용해 주세요.
 이미 예전 버전이 있으면 지우지 말고 그대로 설치하면 정보가 유지됩니다.
