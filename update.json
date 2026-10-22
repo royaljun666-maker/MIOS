@@ -49,5 +49,7 @@
     ],
     "api": "https://script.google.com/macros/s/AKfycbwhfs2NWGqRT9hSx6PwPVwQQYHgMCEihWPXYad4HLawj_J2avG7UEU0hyzBG24QiHKWqQ/exec"
   },
-  "features": []
+  "features": [
+    "dna"
+  ]
 }
