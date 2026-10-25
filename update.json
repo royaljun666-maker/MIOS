@@ -52,6 +52,7 @@
   "features": [
     "dna",
     "brief",
-    "paper"
+    "paper",
+    "discpaper"
   ]
 }
