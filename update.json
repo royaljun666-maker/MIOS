@@ -6,14 +6,14 @@
   "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/myfin_v1.8.apk",
   "notice": "'내 투자 비서' v1.8이 나왔어요! 뒤로가기가 보통 앱처럼 바뀌어서 이번 한 번만 새로 설치가 필요해요. '새 버전 받기' → 다운로드된 파일 열기 → 설치. 계좌·관심종목은 그대로 남아요. (PC는 github.com/royaljun666-maker/MIOS 에서 받기)",
   "grace_days": 7,
-  "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v3.7.zip",
+  "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v3.8.zip",
   "ota": {
-    "code": 307,
-    "version": "3.7",
+    "code": 308,
+    "version": "3.8",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-307.zip",
-    "sha256": "7c5b0aa56163a6be490044c07ce9caec5b623441f25be56d64c8310f569de932",
-    "sig": "6c53b670def7b4ec6ca3ab012664f13e99a2ac9ebd8ac961318e2ea2c1758c196df7a8bc09d72df2c752aab6d238538eb1e6f46965c26cc8a879dfb09de3ea0c"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-308.zip",
+    "sha256": "226f0ea85e6ff5ada216692ce34a6f71b00d3078df45c34201218958d9f42459",
+    "sig": "59d640588c822ddacef6b809beabab7cdddb50d8e195e9be6bacd051ac811a95e7b03355808f378d20f444e28fbbd08c75a933506a478b630bfd3038dd9b6f02"
   },
   "support": {
     "toss": "",
