@@ -17,7 +17,11 @@
   },
   "support": {
     "toss": "",
-    "kakao": "https://qr.kakaopay.com/Fd1mzFvFG"
+    "kakao": "",
+    "charity": {
+      "url": "https://www.chorogusan.or.kr/contents/greenList.do?categoryCd=15&pageNo=1#reportReview",
+      "name": "초록우산 천원의 힘"
+    }
   },
   "promo": [],
   "license": {
