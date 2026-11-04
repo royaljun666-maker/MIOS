@@ -52,12 +52,17 @@
       }
     ],
     "api": "https://script.google.com/macros/s/AKfycbwhfs2NWGqRT9hSx6PwPVwQQYHgMCEihWPXYad4HLawj_J2avG7UEU0hyzBG24QiHKWqQ/exec",
-    "free_until": "2026-11-12",
+    "free_until": "2026-12-12",
     "bonus": [
       {
         "days": 14,
         "before": "2026-10-30",
         "id": "open-2w-2026-10"
+      },
+      {
+        "days": 30,
+        "before": "2026-11-05",
+        "id": "ext-1m-2026-11"
       }
     ]
   },
