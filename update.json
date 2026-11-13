@@ -8,12 +8,12 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 425,
-    "version": "4.25",
+    "code": 426,
+    "version": "4.26",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-425.zip",
-    "sha256": "c0f30ae9a4e7cc23aa5b06df742d5d63fbc6be25c4dbada7a69bd7556b92f4af",
-    "sig": "2bb6dd2cdef110bb077a8efba656dd6b663a4779e5d4411fe7b241df026e7d2e1831a4e17468639488adb3869a4a255471eac7f607853985cbc4c5c5cf0d410e"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-426.zip",
+    "sha256": "6dd72e5e17eaf4df46d89ab0841120e264caa212a7c04e3ad6ad53f3fadf649b",
+    "sig": "c7cc5d5250063197e59475d4f4ed390740b5cc7c8adbaf73a7be2298d790885f2b69190f1fb07340bc414a58c269980e5850beb4d8833107cd2ca33c0f7c910a"
   },
   "support": {
     "toss": "",
@@ -72,5 +72,12 @@
     "paper",
     "discpaper",
     "scan2"
-  ]
+  ],
+  "tb": {
+    "version": "1.8",
+    "latest": 108,
+    "apk": "https://github.com/royaljun666-maker/MIOS/raw/main/teotbat_v1.8.apk",
+    "notice": "",
+    "require": false
+  }
 }
