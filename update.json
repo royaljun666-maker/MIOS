@@ -8,12 +8,12 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 426,
-    "version": "4.26",
+    "code": 427,
+    "version": "4.27",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-426.zip",
-    "sha256": "6dd72e5e17eaf4df46d89ab0841120e264caa212a7c04e3ad6ad53f3fadf649b",
-    "sig": "c7cc5d5250063197e59475d4f4ed390740b5cc7c8adbaf73a7be2298d790885f2b69190f1fb07340bc414a58c269980e5850beb4d8833107cd2ca33c0f7c910a"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-427.zip",
+    "sha256": "ec3e9da702f916ae34316bbab09a3e631c268318ccb8a673cda96b851df4f201",
+    "sig": "2608456fffc269e4ab7f5174c67130d6503d182df29a68c6abb920db36014b6d34fbb37f8e2d0e10b74a93c81c1a78064b694840e9fa12c50198e66acd7e390e"
   },
   "support": {
     "toss": "",
@@ -78,6 +78,8 @@
     "latest": 108,
     "apk": "https://github.com/teotbat-app/download/raw/main/teotbat_v1.8.apk",
     "notice": "",
-    "require": false
+    "require": false,
+    "contact": "https://open.kakao.com/o/srbj9ZWi",
+    "contact_label": "운영자 1:1 오픈채팅 열기"
   }
 }
