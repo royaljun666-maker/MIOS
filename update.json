@@ -8,12 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 431,
-    "version": "4.31",
+    "code": 432,
+    "version": "4.32",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-431.zip",
-    "sha256": "aab046cc5f25455aba08d348441b7e1c5e156d541493a8cf607ffc8b73add46a",
-    "sig": "01525e78f8212562d689b9aba5eb55ddc35c6c7dc78a508072e787e72151e68b1376c96e83609f1d8507f6c15aa6924053eec9b8272682eac2163b58e39c3308"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-432.zip",
+    "sha256": "0ca44464f2d8197a3f567f113df541dfb5ca0a0d1254f6b6aa529be5b47fa1b9",
+    "sig": "617366ee62f55fd4109fd8586f8748461d513fff90b16a44ac40d4ac6c00a222fd350f83814a7f09c19852b3c7c0d46d6953ed1e50f6761152946d0dff23290d",
+    "note": "이제 업데이트되면 무엇이 바뀌었는지 알려 드려요"
   },
   "support": {
     "toss": "",
