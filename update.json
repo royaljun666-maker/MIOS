@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 433,
-    "version": "4.33",
+    "code": 434,
+    "version": "4.34",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-433.zip",
-    "sha256": "2a7af001b688efde279b114f9db56c86d1d0372009d9ac53b6a32b30e2984b2d",
-    "sig": "26234c5524d51ef52dc4f96261277f07bfd02325823a60a20a78cd0e969db50284a8db63fe2910747271ad344b6b45b3d51dc380cd471cf3be867fce83f6e00b",
-    "note": "로또 당첨 확률 10배 → 5배로 조정했어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-434.zip",
+    "sha256": "5c6acdb53d58ebc2f3583520f9ef0c8871f824e8c87dc949095b8cdd14899e5a",
+    "sig": "213677010af17b2774cc725ebc58d84fd86bd1dfb7440ba82db50c36c63e85921146c2ac9839f9431283281150fc9159037df96e7d9e365b2e4205ad12e9b602",
+    "note": ""
   },
   "support": {
     "toss": "",
