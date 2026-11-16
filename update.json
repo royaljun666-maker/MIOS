@@ -8,12 +8,12 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 436,
-    "version": "4.36",
+    "code": 437,
+    "version": "4.37",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-436.zip",
-    "sha256": "65e53d096b95bfb8338be85c7bff7368443d7b631e64e90193ad7dd7dc2b777a",
-    "sig": "57f25bc2bfbf7573227bf9ebf7e048896a58640fe601a274e538a914fa549d4290ae13419b1dd2af10c5142f4468352e527dad91fc8aefd6985567a53d70fb01",
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-437.zip",
+    "sha256": "e7af874d9f7cdc273d50f74808c10126342013ca568b140d9d71bebe04c7fa81",
+    "sig": "b13dbeb0a383ebd264d287d90ef59e35efbb6269d416e38c4811eb3a28efd3e03c2ee0fcc5613e7b0d2414a276cc2493857b3372440d4a226224dbcd29f2610a",
     "note": ""
   },
   "support": {
