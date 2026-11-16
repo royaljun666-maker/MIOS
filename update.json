@@ -81,6 +81,17 @@
     "notice": "",
     "require": false,
     "contact": "https://open.kakao.com/o/srbj9ZWi",
-    "contact_label": "운영자 1:1 오픈채팅 열기"
+    "contact_label": "운영자 1:1 오픈채팅 열기",
+    "poll": {
+      "id": "board-2026-11",
+      "q": "공개 단톡방이나 이 앱에서 바로 쓸 수 있는 텃밭 임시 게시판을 만들어 드릴까요?",
+      "options": [
+        "공개 단톡방(카카오톡 오픈채팅)이 좋아요",
+        "앱 안 임시 게시판이 좋아요",
+        "둘 다 좋아요",
+        "필요 없어요"
+      ],
+      "until": "2026-11-30"
+    }
   }
 }
