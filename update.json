@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 443,
-    "version": "4.43",
+    "code": 444,
+    "version": "4.44",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-443.zip",
-    "sha256": "f0f7c3de94d7a257ad89370dab6aeaa1150fe7e5b68d4093116cdca486e115cd",
-    "sig": "ceb339a4708576ffa95459754b32bb706ace0a556fbc01a8b2be508117f4737efe33b61868228293173a0347f6de5c1728879aaeba0f15f5a6afe8a7c81ea009",
-    "note": ""
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-444.zip",
+    "sha256": "8c339600187522d4da2204cd4fb5252b10866f1aa7dcf5fd3678bb68e29c3e73",
+    "sig": "8f151cc788b273f6117f499e76f3ced618a1d869d635ccda3d4f9fc07ab9c1387be4a468e80c8d36fbec0ac699ce6d0f1369a9b2b1183bdb8b9704c1411d0c09",
+    "note": "관심종목·모의투자 화면 정리 · 'AI 맞춤 설정' 팝업 반복 해결 · 투표 종료"
   },
   "support": {
     "toss": "",
