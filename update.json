@@ -8,12 +8,12 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 442,
-    "version": "4.42",
+    "code": 443,
+    "version": "4.43",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-442.zip",
-    "sha256": "2fd3c9a116fb84a7fff35f71480c35712cdcbdd56f32e31d78710f2be1b06e28",
-    "sig": "29cdc4f4ffcee55be140f1492aa2927890fcbed3e01acef7e4113107f6fd772eae16f66c43c22bac8dc50c59d93d3cc5707e6a4b888c95810116e5508ca4aa02",
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-443.zip",
+    "sha256": "f0f7c3de94d7a257ad89370dab6aeaa1150fe7e5b68d4093116cdca486e115cd",
+    "sig": "ceb339a4708576ffa95459754b32bb706ace0a556fbc01a8b2be508117f4737efe33b61868228293173a0347f6de5c1728879aaeba0f15f5a6afe8a7c81ea009",
     "note": ""
   },
   "support": {
@@ -81,17 +81,6 @@
     "notice": "",
     "require": false,
     "contact": "https://open.kakao.com/o/srbj9ZWi",
-    "contact_label": "운영자 1:1 오픈채팅 열기",
-    "poll": {
-      "id": "board-2026-11",
-      "q": "공개 단톡방이나 이 앱에서 바로 쓸 수 있는 텃밭 임시 게시판을 만들어 드릴까요?",
-      "options": [
-        "공개 단톡방(카카오톡 오픈채팅)이 좋아요",
-        "앱 안 임시 게시판이 좋아요",
-        "둘 다 좋아요",
-        "필요 없어요"
-      ],
-      "until": "2026-11-30"
-    }
+    "contact_label": "운영자 1:1 오픈채팅 열기"
   }
 }
