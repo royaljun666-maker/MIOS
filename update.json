@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 441,
-    "version": "4.41",
+    "code": 442,
+    "version": "4.42",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-441.zip",
-    "sha256": "060ebb00603d708e243ee704f8ac964b17dad8a4ae741c6033bfa76486c5ba02",
-    "sig": "5f6122203cb567bd56bc0f8a9a7d0ecec82bf230790868aa088038467134aa73258a2ec9cbe150e8f330a1eb92b24b8f1d89abeed76d1d73c618472a28177e09",
-    "note": "관심종목·모의투자 화면이 더 간단해졌어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-442.zip",
+    "sha256": "2fd3c9a116fb84a7fff35f71480c35712cdcbdd56f32e31d78710f2be1b06e28",
+    "sig": "29cdc4f4ffcee55be140f1492aa2927890fcbed3e01acef7e4113107f6fd772eae16f66c43c22bac8dc50c59d93d3cc5707e6a4b888c95810116e5508ca4aa02",
+    "note": ""
   },
   "support": {
     "toss": "",
