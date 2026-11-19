@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 446,
-    "version": "4.46",
+    "code": 447,
+    "version": "4.47",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-446.zip",
-    "sha256": "9fa3a3d5e575ff7b15ea706ef8ccfa868a865c15b80f1c92fc9b52e7beb1c535",
-    "sig": "d85a6e1f17d111d169b2634506b3c96590c8c9cb6e9563cab35b9eb87de1010d193d110efb93fbc0a333450be6395478b457177bd69bd19c4c7ff0c41ceb2601",
-    "note": "게시판 별명을 직접 정할 수 있어요 (운영자 사칭은 막아요)"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-447.zip",
+    "sha256": "16da104b1c6e7ba7082a6e45554a04caddbd82180887e8629e162b96342168f3",
+    "sig": "fd504ac0c3ab0b826432f674e893d2a8cd7811f0f16c9917a030539d21c461d190dd9071f45dda49f38c36a252e5c356ea9111cae7fe2cdb760e8f1eccb4ec02",
+    "note": "업데이트 중 게시판 등 화면이 사라지던 문제 고침 · 빠진 파일은 저절로 다시 받아요"
   },
   "support": {
     "toss": "",
