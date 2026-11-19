@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 447,
-    "version": "4.47",
+    "code": 448,
+    "version": "4.48",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-447.zip",
-    "sha256": "16da104b1c6e7ba7082a6e45554a04caddbd82180887e8629e162b96342168f3",
-    "sig": "fd504ac0c3ab0b826432f674e893d2a8cd7811f0f16c9917a030539d21c461d190dd9071f45dda49f38c36a252e5c356ea9111cae7fe2cdb760e8f1eccb4ec02",
-    "note": "업데이트 중 게시판 등 화면이 사라지던 문제 고침 · 빠진 파일은 저절로 다시 받아요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-448.zip",
+    "sha256": "be4f9b019a2c1aa7b3f1260edcbe84979978fdf4b3f92d0e8be9ed9fca503d3c",
+    "sig": "316a8cd98a21490c310f0b5af14534f6d0af2b9d50f6fd8f0319724706a05ead92f513f4e869c0124f84df349d8835101b58efcc1eacc79b99e1fe3c1d6b4d01",
+    "note": "업데이트가 멈추던 문제 고침 · 게시판 별명을 직접 정할 수 있어요"
   },
   "support": {
     "toss": "",
