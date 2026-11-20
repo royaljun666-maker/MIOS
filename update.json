@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 453,
-    "version": "4.53",
+    "code": 454,
+    "version": "4.54",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-453.zip",
-    "sha256": "5d73a3a592ab4070017525f0d325fb5d1c0647c86784f758bbfdae50634a7e25",
-    "sig": "c35f1770b34146c18d01bbc24115fbba920a2d59e548f8bb811cfa215f1c5c893655cbcee8618a35facf639f1a02111482132f137ce06ee8f1f601684ee45807",
-    "note": "계산기에 계산기 모양 아이콘이 생겼어요 · 아래 탭에 투자 퀴즈가 들어왔어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-454.zip",
+    "sha256": "978a5838d20f8b4a5e48ab991b5c3463f813628566f8c670fd4bfd6d95a25bfa",
+    "sig": "41c5142551749e6e780ae84ce9afc2266ee92c4137e6a5c0d35b2f96b9e9dcb177bdb002539c99ef2b45e1508fa1cfc213ff750f85ba3d514288913d4a41f002",
+    "note": "투자 퀴즈에 다섯 단계가 생겼어요 · 내 수준에 맞게 골라 보세요"
   },
   "support": {
     "toss": "",
