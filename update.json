@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 452,
-    "version": "4.52",
+    "code": 453,
+    "version": "4.53",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-452.zip",
-    "sha256": "052bf199e880db1f4a81baa0f453bb411521c6e15e60395cc72ea71d7d90b8e1",
-    "sig": "008a13bc3a7f6923d26b5e4322760def6039e9ccb45884aa285b14ee112b0edcd44278fa68c36982fd9cd01e3d643b6ec8857cd584c2b0f8c6b40ec44d565c0a",
-    "note": "아래 탭의 퀀트 자리에 투자 퀴즈가 들어왔어요 · 퀀트 랩은 더보기에 있어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-453.zip",
+    "sha256": "5d73a3a592ab4070017525f0d325fb5d1c0647c86784f758bbfdae50634a7e25",
+    "sig": "c35f1770b34146c18d01bbc24115fbba920a2d59e548f8bb811cfa215f1c5c893655cbcee8618a35facf639f1a02111482132f137ce06ee8f1f601684ee45807",
+    "note": "계산기에 계산기 모양 아이콘이 생겼어요 · 아래 탭에 투자 퀴즈가 들어왔어요"
   },
   "support": {
     "toss": "",
