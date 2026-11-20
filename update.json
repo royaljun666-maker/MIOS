@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 449,
-    "version": "4.49",
+    "code": 450,
+    "version": "4.50",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-449.zip",
-    "sha256": "b43af21beb2d72df3356b2b115cfb4e2c14e3dd9ef2a3a4e3fb6966d8a399cf1",
-    "sig": "e2896baa0e7e206a0a2aa05179eba92212baadafb15b0db13dfbae31964707ce667d18a858129b72da8251e7b454ad132d41564c752c68bbbc4cd7ea3db43806",
-    "note": "크래시 게임이 투자 퀴즈로 바뀌었어요 · 모의투자에 내 규칙과 나눠 사기가 생겼어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-450.zip",
+    "sha256": "38136426760723b32851b2d3abd048ed057041191ec5b63eaa47061039a4ac99",
+    "sig": "e9045da52eb27efc79f865c91f2dab6b3c61eeb3f46297fb961ef5e5ef61a707bb537c45adc8aad24dad9ccc8b9f58d3bce5932c414cf650e1db605915ad240a",
+    "note": "'투자 원칙'의 이름이 '담쌤의 가르침'으로 바뀌었어요"
   },
   "support": {
     "toss": "",
