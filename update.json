@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 448,
-    "version": "4.48",
+    "code": 449,
+    "version": "4.49",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-448.zip",
-    "sha256": "be4f9b019a2c1aa7b3f1260edcbe84979978fdf4b3f92d0e8be9ed9fca503d3c",
-    "sig": "316a8cd98a21490c310f0b5af14534f6d0af2b9d50f6fd8f0319724706a05ead92f513f4e869c0124f84df349d8835101b58efcc1eacc79b99e1fe3c1d6b4d01",
-    "note": "업데이트가 멈추던 문제 고침 · 게시판 별명을 직접 정할 수 있어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-449.zip",
+    "sha256": "b43af21beb2d72df3356b2b115cfb4e2c14e3dd9ef2a3a4e3fb6966d8a399cf1",
+    "sig": "e2896baa0e7e206a0a2aa05179eba92212baadafb15b0db13dfbae31964707ce667d18a858129b72da8251e7b454ad132d41564c752c68bbbc4cd7ea3db43806",
+    "note": "크래시 게임이 투자 퀴즈로 바뀌었어요 · 모의투자에 내 규칙과 나눠 사기가 생겼어요"
   },
   "support": {
     "toss": "",
@@ -73,7 +73,8 @@
     "paper",
     "discpaper",
     "scan2",
-    "board"
+    "board",
+    "rules"
   ],
   "tb": {
     "version": "1.8",
