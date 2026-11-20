@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.25.zip",
   "ota": {
-    "code": 450,
-    "version": "4.50",
+    "code": 451,
+    "version": "4.51",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-450.zip",
-    "sha256": "38136426760723b32851b2d3abd048ed057041191ec5b63eaa47061039a4ac99",
-    "sig": "e9045da52eb27efc79f865c91f2dab6b3c61eeb3f46297fb961ef5e5ef61a707bb537c45adc8aad24dad9ccc8b9f58d3bce5932c414cf650e1db605915ad240a",
-    "note": "'투자 원칙'의 이름이 '담쌤의 가르침'으로 바뀌었어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-451.zip",
+    "sha256": "a0d41445e0f6257230de16327d23bceddec10f999c1f12ab48ecae46a3645ad6",
+    "sig": "21e2498a5a5282a53938bf5a4b16c72a06affcda0695aa452614e2d2b8414b31f3ff55cbcae5800e3843a57edba2dddf3f5c81f7c273ebd1902a72d54fd64807",
+    "note": "이름 표시를 앱에 맞게 다듬었어요"
   },
   "support": {
     "toss": "",
