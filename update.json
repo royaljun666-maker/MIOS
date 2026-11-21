@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 455,
-    "version": "4.55",
+    "code": 456,
+    "version": "4.56",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-455.zip",
-    "sha256": "1fc057a7b26d89cee5bee868d6daaac1ff10174d276454c932ca3a0b0e2c91dd",
-    "sig": "db32c33b5260b293e23669e822a9dfea521e080ef06176f015bba0564a98e6c9a8aadc5520fb660a524559e0c4499ba12c658526b12611b826a74764aeb1cd04",
-    "note": "퀴즈·로또를 한 탭에서 · 유료 AI 예상 금액 안내 · PC는 메뉴와 AI 연결이 쉬워졌어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-456.zip",
+    "sha256": "21143e25e82b75ae6a471b8883884e9bce71cb826d169b3d38bce6f0308521f2",
+    "sig": "5e9af480f8f35da7d93fd4fe0b3c3232cbdec334bc8a18059ee9bff0b0f909197b0e0e60b5d94393906d5f3ae480a58631e2850794ac536d521b54a1318e7a0c",
+    "note": "AI 안내를 다듬었어요 · 기본은 무료 Gemini 그대로, 유료 AI는 참고 안내만"
   },
   "support": {
     "toss": "",
