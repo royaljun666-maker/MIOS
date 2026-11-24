@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 459,
-    "version": "4.59",
+    "code": 460,
+    "version": "4.60",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-459.zip",
-    "sha256": "d0017ee909ce7ab6d9b0585c438746d3f763578114b9399807fcaffae239dd94",
-    "sig": "098b84492c904e27d2b19d8cc98fce972797495ec2f2acae6cddc5b45366b179a514a901e5f3c37f88e343db0840a1e5cd81fb77b76db59bb75fd014f53d7c02",
-    "note": "텃밭 새 소식 안내가 켤 때마다 떠요 · '다시 보지 않기'를 체크하면 그만 떠요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-460.zip",
+    "sha256": "b0b79cc7f9d15bb42d1532272359fab2a66c13eb3e2d37d45a1888852cc3afde",
+    "sig": "5cc10f800e5f54c71c638de593096a40939196f1f709b01e86c6a13af7d91289cfc8ecec61ef5f81bbbfdf33f7b944f5df5a52a26fc466bb7498bbd6ee42780d",
+    "note": "폰 설정 화면의 글자가 세로로 찌그러지던 것을 고쳤어요"
   },
   "support": {
     "toss": "",
