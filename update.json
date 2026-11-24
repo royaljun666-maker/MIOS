@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 458,
-    "version": "4.58",
+    "code": 459,
+    "version": "4.59",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-458.zip",
-    "sha256": "2aa2184193091f89975baef85ad6a570d209188f04bea7b56defb7201c1260f2",
-    "sig": "7e0760d156081a38503b20055a429393d3340c94059aa06141f995a048697a803fc39464784f565d01915f1992789db80ebb7f80605ccf72880e35bb80cc9a01",
-    "note": "속보 뉴스를 여러 언론사가 고르게 보이도록 고쳤어요 · 언론사도 더했어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-459.zip",
+    "sha256": "d0017ee909ce7ab6d9b0585c438746d3f763578114b9399807fcaffae239dd94",
+    "sig": "098b84492c904e27d2b19d8cc98fce972797495ec2f2acae6cddc5b45366b179a514a901e5f3c37f88e343db0840a1e5cd81fb77b76db59bb75fd014f53d7c02",
+    "note": "텃밭 새 소식 안내가 켤 때마다 떠요 · '다시 보지 않기'를 체크하면 그만 떠요"
   },
   "support": {
     "toss": "",
