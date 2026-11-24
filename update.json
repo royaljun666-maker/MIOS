@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 457,
-    "version": "4.57",
+    "code": 458,
+    "version": "4.58",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-457.zip",
-    "sha256": "42e985241ed3e28aa1bf4dc629cfb1e044c3949fbe364287582f0aa8c9dc14be",
-    "sig": "f821f93f5909e5ff434b7688e01c7c94ed079875569af78bd4d684278e7f90900517f5631482e00269ec87ed18ca102f43a3ebe0a67f051f81d2aad60bf7a509",
-    "note": "텃밭: 처음 열면 새 소식 안내(게시판·퀴즈·투자 DNA) · 약관 화면 앱 이름 고침"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-458.zip",
+    "sha256": "2aa2184193091f89975baef85ad6a570d209188f04bea7b56defb7201c1260f2",
+    "sig": "7e0760d156081a38503b20055a429393d3340c94059aa06141f995a048697a803fc39464784f565d01915f1992789db80ebb7f80605ccf72880e35bb80cc9a01",
+    "note": "속보 뉴스를 여러 언론사가 고르게 보이도록 고쳤어요 · 언론사도 더했어요"
   },
   "support": {
     "toss": "",
