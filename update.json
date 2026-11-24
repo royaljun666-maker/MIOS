@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 456,
-    "version": "4.56",
+    "code": 457,
+    "version": "4.57",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-456.zip",
-    "sha256": "21143e25e82b75ae6a471b8883884e9bce71cb826d169b3d38bce6f0308521f2",
-    "sig": "5e9af480f8f35da7d93fd4fe0b3c3232cbdec334bc8a18059ee9bff0b0f909197b0e0e60b5d94393906d5f3ae480a58631e2850794ac536d521b54a1318e7a0c",
-    "note": "AI 안내를 다듬었어요 · 기본은 무료 Gemini 그대로, 유료 AI는 참고 안내만"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-457.zip",
+    "sha256": "42e985241ed3e28aa1bf4dc629cfb1e044c3949fbe364287582f0aa8c9dc14be",
+    "sig": "f821f93f5909e5ff434b7688e01c7c94ed079875569af78bd4d684278e7f90900517f5631482e00269ec87ed18ca102f43a3ebe0a67f051f81d2aad60bf7a509",
+    "note": "텃밭: 처음 열면 새 소식 안내(게시판·퀴즈·투자 DNA) · 약관 화면 앱 이름 고침"
   },
   "support": {
     "toss": "",
