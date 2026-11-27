@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 463,
-    "version": "4.63",
+    "code": 464,
+    "version": "4.64",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-463.zip",
-    "sha256": "459e746dedaff7b67b35b5f573ea336cfcb0f47864cddf64738c8f5ff23e7d98",
-    "sig": "240ca3b25660e244613c0fbc76d56597780f0d7a8f8c6ae27d9b5e99573662efcb013d71e5960f8870440e31961f1013730d4c04119b334d5b1da2070fc24706",
-    "note": "앱 안내 문구를 다듬었어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-464.zip",
+    "sha256": "8934a9997911ded3ee525b466f67aa774f8bc523585fe757c92f38f0a840aadc",
+    "sig": "7fd24c79261fdce2c63aeb0a549b6f2ec35e6e2a8e68f2bdc342af59adee6f5c30ccfa6dae9c566e5b56d1f4edf119a62255fbe108db276154ad15349a7b5a0a",
+    "note": "안정성을 다듬었어요"
   },
   "support": {
     "toss": "",
