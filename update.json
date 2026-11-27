@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 462,
-    "version": "4.62",
+    "code": 463,
+    "version": "4.63",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-462.zip",
-    "sha256": "fead5ed299317940e081b3aa85abeb4f6fab1aeaadaec07f17c56754b9b9e84c",
-    "sig": "9fed7be5942bae65b202a6d082d78d6930e9c7339a69a6270b960231c10ccfbe73157028250efa0bd740cba91d2aef514b8201136f6045f7e9d5e60d577bf500",
-    "note": "AI 창마다 'AI가 먼저 말씀드려요'(AI의 한계) 안내 · 텃밭 워터마크 이름 고침"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-463.zip",
+    "sha256": "459e746dedaff7b67b35b5f573ea336cfcb0f47864cddf64738c8f5ff23e7d98",
+    "sig": "240ca3b25660e244613c0fbc76d56597780f0d7a8f8c6ae27d9b5e99573662efcb013d71e5960f8870440e31961f1013730d4c04119b334d5b1da2070fc24706",
+    "note": "앱 안내 문구를 다듬었어요"
   },
   "support": {
     "toss": "",
