@@ -8,13 +8,13 @@
   "grace_days": 7,
   "pc": "https://github.com/royaljun666-maker/MIOS/raw/main/AssetAssistant_PC_v4.54.zip",
   "ota": {
-    "code": 461,
-    "version": "4.61",
+    "code": 462,
+    "version": "4.62",
     "min_app": 106,
-    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-461.zip",
-    "sha256": "da95614d262428ddc0c3033515068de9ec8c8ff7ff255c6736e6c5cb977e1f4e",
-    "sig": "7ff5c515ed4b5a9b9adf7914591e77cf7376ff0c2e83797cd6a37a4f68242c487cd612ce061cfbc9aafea01ed970d10719d2c02049d103c29a02ed66a0fa9007",
-    "note": "뉴스 제목의 따옴표가 깨져 보이던 것을 고쳤어요"
+    "url": "https://raw.githubusercontent.com/royaljun666-maker/MIOS/main/ota/bundle-462.zip",
+    "sha256": "fead5ed299317940e081b3aa85abeb4f6fab1aeaadaec07f17c56754b9b9e84c",
+    "sig": "9fed7be5942bae65b202a6d082d78d6930e9c7339a69a6270b960231c10ccfbe73157028250efa0bd740cba91d2aef514b8201136f6045f7e9d5e60d577bf500",
+    "note": "AI 창마다 'AI가 먼저 말씀드려요'(AI의 한계) 안내 · 텃밭 워터마크 이름 고침"
   },
   "support": {
     "toss": "",
